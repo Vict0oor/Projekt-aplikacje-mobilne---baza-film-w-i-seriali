@@ -1,0 +1,257 @@
+{
+  "uzytkownik": [
+    {
+      "login": "_Test_",
+      "haslo": "12345678",
+      "email": "test@gmail.com",
+      "awatar": "images/avatarID_1.jpg",
+      "liczbaOcenionych": 1,
+      "sredniaOcen": 8,
+      "id": 1
+    },
+    {
+      "login": "KinoMan",
+      "haslo": "12345678",
+      "email": "Kinoman@gmail.com",
+      "awatar": "images/avatar.png",
+      "liczbaOcenionych": 0,
+      "sredniaOcen": 0,
+      "id": 2
+    },
+    {
+      "login": "Rose",
+      "haslo": "12345678",
+      "email": "Rose@gmail.com",
+      "awatar": "images/avatar.png",
+      "liczbaOcenionych": 2,
+      "sredniaOcen": 9,
+      "id": 3
+    }
+  ],
+  "filmy": [
+    {
+      "id": 1,
+      "ranking": 1,
+      "nowy": "Tak",
+      "typ": "FILM",
+      "tytul": "EGZORCYSTA: WYZNAWCA",
+      "rok": 2023,
+      "ocena": 5,
+      "czas": "1 godz. 51 min.",
+      "gatunek": "Horror",
+      "produkcja": "USA",
+      "premiera": "4 października 2023",
+      "rezyseria": "David Gordon Green",
+      "opis": "Od śmierci ciężarnej żony podczas trzęsienia ziemi na Haiti, Victor Fielding samotnie wychowuje córkę, Angelę. Kiedy Angela i jej przyjaciółka Katherine znikają w lesie, aby powrócić trzy dni później, nie pamiętając, co się z nimi stało, uruchamia to łańcuch wydarzeń, które zmuszą Victora do konfrontacji ze złem.",
+      "obsada": "Leslie Odom Jr., Ann Dowd, Ellen Burstyn Lidya Jewett",
+      "sciezka": "/images/exorcist.jpg"
+    },
+    {
+      "id": 2,
+      "ranking": 3,
+      "nowy": "Nie",
+      "typ": "FILM",
+      "tytul": "PAIN HUSTLERS",
+      "rok": 2023,
+      "ocena": 4.8,
+      "czas": "2 godz. 2 min.",
+      "gatunek": "Dramat",
+      "produkcja": "USA",
+      "premiera": "12 września 2023",
+      "rezyseria": "David Yates",
+      "opis": "Samotnie wychowująca córkę kobieta, która ledwo wiąże koniec z końcem, dołącza do upadającego start-upu farmaceutycznego, gdzie zostaje uwikłana w nielegalną działalność.",
+      "obsada": "Emily Blunt, Chris Evans, Andy Garcia, Catherine O'Hara",
+      "sciezka": "/images/pain.jpg"
+    },
+    {
+      "id": 3,
+      "ranking": 2,
+      "nowy": "Tak",
+      "typ": "FILM",
+      "tytul": "PIŁA X",
+      "rok": 2023,
+      "ocena": 4.7,
+      "czas": "1 godz. 58 min.",
+      "gatunek": "Horror",
+      "produkcja": "USA",
+      "premiera": "28 września 2023",
+      "rezyseria": "Kevin Greutert",
+      "opis": "John wymierza sprawiedliwość medycznym oszustom z kliniki w Meksyku.",
+      "obsada": "Tobin Bell, Shawnee Smith, Steven Brand, Michael Beach",
+      "sciezka": "/images/saw.jpg"
+    }
+  ],
+  "seriale": [
+    {
+      "id": 4,
+      "ranking": 2,
+      "nowy": "Tak",
+      "typ": "SERIAL",
+      "tytul": "GEN V",
+      "rok": 2023,
+      "ocena": 7.8,
+      "czas": "53 min.",
+      "gatunek": "Dramat, Akcja, Sci-Fi",
+      "produkcja": "USA",
+      "premiera": "29 września 2023",
+      "rezyseria": "Craig Rosenberg, Eric Kripke",
+      "opis": "'Gen V' to osadzony w świecie serialu 'The Boys' serial, który przedstawia losy utalentowanych uczniów jedynego w USA college'u dla superbohaterów. Ich kręgosłup moralny czeka próba - walczą bowiem o pozycję w rankingu i szansę na dołączenie do Siódemki, elitarnej grupy superbohaterów Vought International. Gdy na jaw wychodzą sekrety szkoły, uczniowie muszą dokonać wyboru.",
+      "obsada": "Jaz Sinclair, Chance Perdomo, Lizze Broadway, Maddie Phillips",
+      "sciezka": "/images/genV.png"
+    },
+    {
+      "id": 5,
+      "ranking": 1,
+      "nowy": "Nie",
+      "typ": "SERIAL",
+      "tytul": "REACHER",
+      "rok": 2022,
+      "ocena": 7.4,
+      "czas": "49 min.",
+      "gatunek": "Akcja",
+      "produkcja": "USA",
+      "premiera": "4 lutego 2022",
+      "rezyseria": "David Gordon Green",
+      "opis": "Podczas wizyty w małym miasteczku Jack Reacher zostaje niesłusznie oskarżony o morderstwo.",
+      "obsada": "Alan Ritchson, Malcolm Goodwin, Willa Fitzgerald, Hugh Thompson",
+      "sciezka": "/images/reacher.png"
+    },
+    {
+      "id": 6,
+      "ranking": 3,
+      "nowy": "Tak",
+      "typ": "SERIAL",
+      "tytul": "1670",
+      "rok": 2023,
+      "ocena": 8.1,
+      "czas": "34 min.",
+      "gatunek": "Komedia",
+      "produkcja": "Polska",
+      "premiera": "13 grudnia 2023",
+      "rezyseria": "Kordian Kądziela",
+      "opis": "Satyryczna komedia, w której zdziwaczały szlachcic, pragnący zostać najsławniejszą osobą w Polsce, musi stawić czoło kłótniom w rodzinie i konfliktom z chłopami.",
+      "obsada": "Bartłomiej Topa, Katarzyna Herman, Martyna Byczkowska, Michał Sikorski",
+      "sciezka": "/images/1670.png"
+    },
+    {
+      "id": 7,
+      "ranking": 4,
+      "nowy": "Nie",
+      "typ": "SERIAL",
+      "tytul": "RICK AND MORTY",
+      "rok": 2013,
+      "ocena": 9.3,
+      "czas": "24 min.",
+      "gatunek": "Animacja, Komedia",
+      "produkcja": "USA",
+      "premiera": "2 grudnia 2013",
+      "rezyseria": "Dan Harmon, Justin Roiland",
+      "opis": "Ekscentryczny naukowiec Rick udaje się ze swoim wnukiem Mortym do najdziwniejszych miejsc w galaktyce i alternatywnych rzeczywistości.",
+      "obsada": "Justin Roiland, Chris Parnell, Dan Harmon, Spencer Grammer",
+      "sciezka": "/images/rick.png"
+    }
+  ],
+  "opinie": [
+    {
+      "pozycjaID": 4,
+      "tytul": "Swietne",
+      "opis": "Super, bardzo dobry",
+      "ocena": 8,
+      "uzytkownikID": 1,
+      "awatar": "images/avatarID_1.jpg",
+      "login": "_Test_",
+      "id": 1
+    },
+    {
+      "pozycjaID": 5,
+      "tytul": "Naprawdę dobry serial!",
+      "opis": "Każdy powinien go obejrzeć. Bardzo mi się podobał.",
+      "ocena": 8,
+      "uzytkownikID": 3,
+      "awatar": "images/avatar.png",
+      "login": "Rose",
+      "id": 2
+    },
+    {
+      "pozycjaID": 6,
+      "tytul": "Super!!!",
+      "opis": "Jeden z lepszych polskich seriali. Polecam.",
+      "ocena": 10,
+      "uzytkownikID": 3,
+      "awatar": "images/avatar.png",
+      "login": "Rose",
+      "id": 3
+    }
+  ],
+  "listy": [
+    {
+      "uzytkownikID": 1,
+      "pozycjeID": [
+        1,
+        7,
+        5,
+        4
+      ],
+      "id": 1
+    },
+    {
+      "uzytkownikID": 2,
+      "pozycjeID": [
+        1,
+        4
+      ],
+      "id": 2
+    },
+    {
+      "uzytkownikID": 3,
+      "pozycjeID": [
+        2,
+        4,
+        3
+      ],
+      "id": 3
+    }
+  ],
+  "kina": [
+    {
+      "id": 1,
+      "nazwa": "Galeria Echo, Kino Helios",
+      "lokalizacja": {
+        "szerokoscG": 50.88051930232547,
+        "dlugoscG": 20.646335519213498
+      }
+    },
+    {
+      "id": 2,
+      "nazwa": "Galeria Korona, Multikino",
+      "lokalizacja": {
+        "szerokoscG": 50.875816420632596,
+        "dlugoscG": 20.635156752943953
+      }
+    },
+    {
+      "id": 3,
+      "nazwa": "Kino Fenomen",
+      "lokalizacja": {
+        "szerokoscG": 50.875816420632596,
+        "dlugoscG": 20.635156752943953
+      }
+    },
+    {
+      "id": 4,
+      "nazwa": "Multikino Kraków",
+      "lokalizacja": {
+        "szerokoscG": 50.0889129129076,
+        "dlugoscG": 19.984274269294342
+      }
+    },
+    {
+      "id": 5,
+      "nazwa": "Kino Zdrój",
+      "lokalizacja": {
+        "szerokoscG": 50.46832232232408,
+        "dlugoscG": 20.746350283061105
+      }
+    }
+  ]
+}
